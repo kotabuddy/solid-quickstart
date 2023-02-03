@@ -1,8 +1,8 @@
 // import { Title } from "solid-start";
 // import Counter from "~/components/Counter";
 
-export default function Home() {
-  return (
+<!-- export default function Home() { -->
+<!--   return ( -->
     <main>
       <Title>Privacy Policy</Title>
       <h1></h1>
@@ -17,5 +17,5 @@ Name
  Submit
       </p>
     </main>
-  );
-}
+<!--   ); -->
+<!-- } -->
